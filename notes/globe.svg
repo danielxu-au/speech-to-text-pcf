@@ -1,0 +1,41 @@
+<svg class="icon_fa78e63c" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg"
+    style="width: 64px; height: 64px;">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M49 33C49 50.6733 41.8364 65 33 65C24.1636 65 17 50.6733 17 33C17 15.3267 24.1636 1 33 1C41.8364 1 49 15.3267 49 33Z"
+        stroke="grey" stroke-width="2" stroke-linecap="square"></path>
+    <path d="M5 17.2H61" stroke="gray" stroke-width="2"></path>
+    <path d="M5 49.2H61" stroke="gray" stroke-width="2"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M65 33C65 50.6733 50.6733 65 33 65C15.3267 65 1 50.6733 1 33C1 15.3267 15.3267 1 33 1C50.6733 1 65 15.3267 65 33Z"
+        stroke="black" stroke-width="2" stroke-linecap="square"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M65 33C65 50.6733 50.6733 65 33 65C15.3267 65 1 50.6733 1 33C1 15.3267 15.3267 1 33 1C50.6733 1 65 15.3267 65 33Z"
+        stroke="url(#WebLogoColor2_0_linear)" stroke-width="2" stroke-linecap="square"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M65 33C65 50.6733 50.6733 65 33 65C15.3267 65 1 50.6733 1 33C1 15.3267 15.3267 1 33 1C50.6733 1 65 15.3267 65 33Z"
+        stroke="url(#WebLogoColor2_1_linear)" stroke-width="2" stroke-linecap="square"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M65 33C65 50.6733 50.6733 65 33 65C15.3267 65 1 50.6733 1 33C1 15.3267 15.3267 1 33 1C50.6733 1 65 15.3267 65 33Z"
+        stroke="url(#WebLogoColor2_2_linear)" stroke-width="2" stroke-linecap="square"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M65 33C65 50.6733 50.6733 65 33 65C15.3267 65 1 50.6733 1 33C1 15.3267 15.3267 1 33 1C50.6733 1 65 15.3267 65 33Z"
+        stroke="url(#WebLogoColor2_3_linear)" stroke-width="2" stroke-linecap="square"></path>
+    <defs>
+        <linearGradient id="WebLogoColor2_0_linear" x1="10.5" y1="10.5" x2="33" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#4FE5FF"></stop>
+            <stop offset="1" stop-color="#4FE5FF" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="WebLogoColor2_1_linear" x1="10.5" y1="55.5" x2="33" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#0078D4"></stop>
+            <stop offset="1" stop-color="#0078D4" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="WebLogoColor2_2_linear" x1="55.5" y1="55.5" x2="33" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#CF8FFF"></stop>
+            <stop offset="1" stop-color="#CF8FFF" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="WebLogoColor2_3_linear" x1="55.5" y1="10.5" x2="33" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#69E56E"></stop>
+            <stop offset="1" stop-color="#69E56E" stop-opacity="0"></stop>
+        </linearGradient>
+    </defs>
+</svg>

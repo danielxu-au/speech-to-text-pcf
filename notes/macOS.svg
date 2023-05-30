@@ -1,0 +1,41 @@
+<svg class="icon_fa78e63c" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg"
+    style="width: 64px; height: 64px;">
+    <path d="M41 65C37 53 37 45 37 33H29C29 29 29 17 37 1" stroke="gray" stroke-width="2" stroke-miterlimit="10">
+    </path>
+    <path d="M17 17V25" stroke="gray" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M49 17V25" stroke="gray" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M53 41C49 45 41 49 33 49C25 49 17 45 13 41" stroke="gray" stroke-width="2" stroke-miterlimit="10"></path>
+    <path
+        d="M49 65H17C8.15556 65 1 57.8444 1 49V17C1 8.15556 8.15556 1 17 1H49C57.8444 1 65 8.15556 65 17V49C65 57.8444 57.8444 65 49 65Z"
+        stroke="black" stroke-width="2"></path>
+    <path
+        d="M49 65H17C8.15556 65 1 57.8444 1 49V17C1 8.15556 8.15556 1 17 1H49C57.8444 1 65 8.15556 65 17V49C65 57.8444 57.8444 65 49 65Z"
+        stroke="url(#MacLogoColor4_0_linear)" stroke-width="2"></path>
+    <path
+        d="M49 65H17C8.15556 65 1 57.8444 1 49V17C1 8.15556 8.15556 1 17 1H49C57.8444 1 65 8.15556 65 17V49C65 57.8444 57.8444 65 49 65Z"
+        stroke="url(#MacLogoColor4_1_linear)" stroke-width="2"></path>
+    <path
+        d="M49 65H17C8.15556 65 1 57.8444 1 49V17C1 8.15556 8.15556 1 17 1H49C57.8444 1 65 8.15556 65 17V49C65 57.8444 57.8444 65 49 65Z"
+        stroke="url(#MacLogoColor4_2_linear)" stroke-width="2"></path>
+    <path
+        d="M49 65H17C8.15556 65 1 57.8444 1 49V17C1 8.15556 8.15556 1 17 1H49C57.8444 1 65 8.15556 65 17V49C65 57.8444 57.8444 65 49 65Z"
+        stroke="url(#MacLogoColor4_3_linear)" stroke-width="2"></path>
+    <defs>
+        <linearGradient id="MacLogoColor4_0_linear" x1="6" y1="6" x2="33" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#4FE5FF"></stop>
+            <stop offset="1" stop-color="#4FE5FF" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="MacLogoColor4_1_linear" x1="60.5" y1="5.5" x2="33" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#69E56E"></stop>
+            <stop offset="1" stop-color="#69E56E" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="MacLogoColor4_2_linear" x1="60.5" y1="60.5" x2="33" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#CF8FFF"></stop>
+            <stop offset="1" stop-color="#CF8FFF" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="MacLogoColor4_3_linear" x1="6" y1="60" x2="33" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#0078D4"></stop>
+            <stop offset="1" stop-color="#0078D4" stop-opacity="0"></stop>
+        </linearGradient>
+    </defs>
+</svg>

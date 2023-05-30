@@ -1,0 +1,41 @@
+<svg class="icon_fa78e63c" viewBox="0 0 66 65" fill="none" xmlns="http://www.w3.org/2000/svg"
+    style="width: 64px; height: 64px;">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M21 25C21 27.2093 19.2093 29 17 29C14.7907 29 13 27.2093 13 25C13 22.7907 14.7907 21 17 21C19.2093 21 21 22.7907 21 25Z"
+        stroke="gray" stroke-width="2"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M53 25C53 27.2093 51.2093 29 49 29C46.7907 29 45 27.2093 45 25C45 22.7907 46.7907 21 49 21C51.2093 21 53 22.7907 53 25Z"
+        stroke="gray" stroke-width="2"></path>
+    <path d="M17 13L9 1" stroke="gray" stroke-width="2"></path>
+    <path d="M49 13L57 1" stroke="gray" stroke-width="2"></path>
+    <path d="M1 40.8H65" stroke="gray" stroke-width="2"></path>
+    <path d="M1 65V41C1 23.3267 15.3267 9 33 9C50.6733 9 65 23.3267 65 41V65" stroke="black" stroke-width="2"></path>
+    <path d="M1 65V41C1 23.3267 15.3267 9 33 9C50.6733 9 65 23.3267 65 41V65" stroke="url(#AndroidLogoColor0_0_linear)"
+        stroke-width="2"></path>
+    <path d="M1 65V41C1 23.3267 15.3267 9 33 9C50.6733 9 65 23.3267 65 41V65" stroke="url(#AndroidLogoColor0_1_linear)"
+        stroke-width="2"></path>
+    <path d="M1 65V41C1 23.3267 15.3267 9 33 9C50.6733 9 65 23.3267 65 41V65" stroke="url(#AndroidLogoColor0_2_linear)"
+        stroke-width="2"></path>
+    <path d="M1 65V41C1 23.3267 15.3267 9 33 9C50.6733 9 65 23.3267 65 41V65" stroke="url(#AndroidLogoColor0_3_linear)"
+        stroke-width="2"></path>
+    <defs>
+        <linearGradient id="AndroidLogoColor0_0_linear" x1="12.5" y1="16.5" x2="33" y2="37"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#4FE5FF"></stop>
+            <stop offset="1" stop-color="#4FE5FF" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="AndroidLogoColor0_1_linear" x1="53.5" y1="16.5" x2="33" y2="37"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#69E56E"></stop>
+            <stop offset="1" stop-color="#69E56E" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="AndroidLogoColor0_2_linear" x1="61" y1="65" x2="33" y2="37" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#CF8FFF"></stop>
+            <stop offset="1" stop-color="#CF8FFF" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="AndroidLogoColor0_3_linear" x1="5" y1="65" x2="33" y2="37" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#0078D4"></stop>
+            <stop offset="1" stop-color="#0078D4" stop-opacity="0"></stop>
+        </linearGradient>
+    </defs>
+</svg>

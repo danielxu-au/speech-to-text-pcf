@@ -1,0 +1,20 @@
+{
+  "privResultId": "61D8EAD4C1FE401681CC97E0B1588F6F",
+  "privReason": 8,
+  "privText": "My name is Simon. I live in Crowborough.",
+  "privDuration": 29300000,
+  "privOffset": 1400000,
+  "privJson": "{\"privTranslationPhrase\":{\"Duration\":29300000,\"Offset\":1400000,\"RecognitionStatus\":0,\"Text\":\"My name is Simon. I live in Crowborough.\",\"Confidence\":0,\"Translation\":{\"TranslationStatus\":0,\"Translations\":[{\"Language\":\"fr\",\"Text\":\"Je m’appelle Simon. J’habite à Crowborough.\"}]}}}",
+  "privProperties": {
+    "privKeys": ["SpeechServiceResponse_JsonResult"],
+    "privValues": [
+      "{\"Duration\":29300000,\"Offset\":1400000,\"RecognitionStatus\":\"Success\",\"Text\":\"My name is Simon. I live in Crowborough.\",\"Confidence\":0.0,\"Translation\":{\"TranslationStatus\":\"Success\",\"Translations\":[{\"Language\":\"fr\",\"Text\":\"Je m’appelle Simon. J’habite à Crowborough.\"}]}}"
+    ]
+  },
+  "privTranslations": {
+    "privMap": {
+      "privKeys": ["fr"],
+      "privValues": ["Je m’appelle Simon. J’habite à Crowborough."]
+    }
+  }
+}

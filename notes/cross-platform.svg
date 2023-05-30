@@ -1,0 +1,40 @@
+<svg class="icon_fa78e63c" fill="none" viewBox="0 0 66 68" xmlns="http://www.w3.org/2000/svg"
+    style="width: 64px; height: 64px;">
+    <path d="M25 57H49" stroke="gray" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M33 49V57" stroke="gray" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M1 25V1H65V49H25" stroke="url(#CrossPlatformLogoColor5_0_linear)" stroke-width="2" stroke-linecap="square">
+    </path>
+    <path d="M1 25V1H65V49H25" stroke="url(#CrossPlatformLogoColor5_1_linear)" stroke-width="2" stroke-linecap="square">
+    </path>
+    <path d="M1 25V1H65V49H25" stroke="url(#CrossPlatformLogoColor5_2_linear)" stroke-width="2" stroke-linecap="square">
+    </path>
+    <path d="M1 25V1H65V49H25" stroke="url(#CrossPlatformLogoColor5_3_linear)" stroke-width="2" stroke-linecap="square">
+    </path>
+    <path d="M25 25H1V65H25V25Z" stroke="gray" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M9 29H17" stroke="gray" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M10 56L56 10" stroke="gray" stroke-width="2" stroke-linecap="square"></path>
+    <path d="M9 49V57H17" stroke="gray" stroke-width="2" stroke-miterlimit="10"></path>
+    <path d="M57 17V9H49" stroke="gray" stroke-width="2" stroke-miterlimit="10" stroke-linecap="square"></path>
+    <defs>
+        <linearGradient id="CrossPlatformLogoColor5_0_linear" x1="1" y1="1" x2="33" y2="25"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#4FE5FF"></stop>
+            <stop offset="1" stop-color="#4FE5FF" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="CrossPlatformLogoColor5_1_linear" x1="65" y1="1" x2="33" y2="25"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#69E56E"></stop>
+            <stop offset="1" stop-color="#69E56E" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="CrossPlatformLogoColor5_2_linear" x1="65" y1="49" x2="33" y2="25"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#CF8FFF"></stop>
+            <stop offset="1" stop-color="#CF8FFF" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="CrossPlatformLogoColor5_3_linear" x1="0.999999" y1="49" x2="33" y2="25"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#0078D4"></stop>
+            <stop offset="1" stop-color="#0078D4" stop-opacity="0"></stop>
+        </linearGradient>
+    </defs>
+</svg>

@@ -1,0 +1,46 @@
+{
+  "privResultId": "892B128D17954517AD30E96D96AA4498",
+  "privReason": 8,
+  "privText": "Hello, my name is Simon Cook. I live with my wife, Rachel.",
+  "privDuration": 34600000,
+  "privOffset": 2200000,
+  "privJson": "{\"privTranslationPhrase\":{\"Duration\":34600000,\"Offset\":2200000,\"RecognitionStatus\":0,\"Text\":\"Hello, my name is Simon Cook. I live with my wife, Rachel.\",\"Confidence\":0,\"Translation\":{\"TranslationStatus\":0,\"Translations\":[{\"Language\":\"zh-Hans\",\"Text\":\"你好，我叫西蒙·库克。我和我的妻子瑞秋住在一起。\"},{\"Language\":\"cy\",\"Text\":\"Helo, fy enw i yw Simon Cook. Dwi'n byw gyda fy ngwraig, Rachel.\"},{\"Language\":\"de\",\"Text\":\"Hallo, mein Name ist Simon Cook. Ich lebe mit meiner Frau Rachel zusammen.\"},{\"Language\":\"en\",\"Text\":\"Hello, my name is Simon Cook. I live with my wife, Rachel.\"},{\"Language\":\"fr\",\"Text\":\"Bonjour, je m’appelle Simon Cook. Je vis avec ma femme, Rachel.\"},{\"Language\":\"ga\",\"Text\":\"Dia duit, Simon Cook is ainm dom. Tá mé i mo chónaí le mo bhean chéile, Rachel.\"},{\"Language\":\"es\",\"Text\":\"Hola, mi nombre es Simon Cook. Vivo con mi esposa, Rachel.\"},{\"Language\":\"it\",\"Text\":\"Ciao, mi chiamo Simon Cook. Vivo con mia moglie, Rachel.\"},{\"Language\":\"nl\",\"Text\":\"Hallo, mijn naam is Simon Cook. Ik woon samen met mijn vrouw Rachel.\"},{\"Language\":\"pt-PT\",\"Text\":\"Olá, meu nome é Simon Cook. Moro com minha esposa, Raquel.\"},{\"Language\":\"ru\",\"Text\":\"Здравствуйте, меня зовут Саймон Кук. Я живу со своей женой Рэйчел.\"},{\"Language\":\"sv\",\"Text\":\"Hej, jag heter Simon Cook. Jag bor med min fru, Rachel.\"}]}}}",
+  "privProperties": {
+    "privKeys": ["SpeechServiceResponse_JsonResult"],
+    "privValues": [
+      "{\"Duration\":34600000,\"Offset\":2200000,\"RecognitionStatus\":\"Success\",\"Text\":\"Hello, my name is Simon Cook. I live with my wife, Rachel.\",\"Confidence\":0.0,\"Translation\":{\"TranslationStatus\":\"Success\",\"Translations\":[{\"Language\":\"zh-Hans\",\"Text\":\"你好，我叫西蒙·库克。我和我的妻子瑞秋住在一起。\"},{\"Language\":\"cy\",\"Text\":\"Helo, fy enw i yw Simon Cook. Dwi'n byw gyda fy ngwraig, Rachel.\"},{\"Language\":\"de\",\"Text\":\"Hallo, mein Name ist Simon Cook. Ich lebe mit meiner Frau Rachel zusammen.\"},{\"Language\":\"en\",\"Text\":\"Hello, my name is Simon Cook. I live with my wife, Rachel.\"},{\"Language\":\"fr\",\"Text\":\"Bonjour, je m’appelle Simon Cook. Je vis avec ma femme, Rachel.\"},{\"Language\":\"ga\",\"Text\":\"Dia duit, Simon Cook is ainm dom. Tá mé i mo chónaí le mo bhean chéile, Rachel.\"},{\"Language\":\"es\",\"Text\":\"Hola, mi nombre es Simon Cook. Vivo con mi esposa, Rachel.\"},{\"Language\":\"it\",\"Text\":\"Ciao, mi chiamo Simon Cook. Vivo con mia moglie, Rachel.\"},{\"Language\":\"nl\",\"Text\":\"Hallo, mijn naam is Simon Cook. Ik woon samen met mijn vrouw Rachel.\"},{\"Language\":\"pt-PT\",\"Text\":\"Olá, meu nome é Simon Cook. Moro com minha esposa, Raquel.\"},{\"Language\":\"ru\",\"Text\":\"Здравствуйте, меня зовут Саймон Кук. Я живу со своей женой Рэйчел.\"},{\"Language\":\"sv\",\"Text\":\"Hej, jag heter Simon Cook. Jag bor med min fru, Rachel.\"}]}}"
+    ]
+  },
+  "privTranslations": {
+    "privMap": {
+      "privKeys": [
+        "zh-Hans",
+        "cy",
+        "de",
+        "en",
+        "fr",
+        "ga",
+        "es",
+        "it",
+        "nl",
+        "pt-PT",
+        "ru",
+        "sv"
+      ],
+      "privValues": [
+        "你好，我叫西蒙·库克。我和我的妻子瑞秋住在一起。",
+        "Helo, fy enw i yw Simon Cook. Dwi'n byw gyda fy ngwraig, Rachel.",
+        "Hallo, mein Name ist Simon Cook. Ich lebe mit meiner Frau Rachel zusammen.",
+        "Hello, my name is Simon Cook. I live with my wife, Rachel.",
+        "Bonjour, je m’appelle Simon Cook. Je vis avec ma femme, Rachel.",
+        "Dia duit, Simon Cook is ainm dom. Tá mé i mo chónaí le mo bhean chéile, Rachel.",
+        "Hola, mi nombre es Simon Cook. Vivo con mi esposa, Rachel.",
+        "Ciao, mi chiamo Simon Cook. Vivo con mia moglie, Rachel.",
+        "Hallo, mijn naam is Simon Cook. Ik woon samen met mijn vrouw Rachel.",
+        "Olá, meu nome é Simon Cook. Moro com minha esposa, Raquel.",
+        "Здравствуйте, меня зовут Саймон Кук. Я живу со своей женой Рэйчел.",
+        "Hej, jag heter Simon Cook. Jag bor med min fru, Rachel."
+      ]
+    }
+  }
+}

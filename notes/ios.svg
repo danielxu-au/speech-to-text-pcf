@@ -1,0 +1,51 @@
+<svg class="icon_fa78e63c" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg"
+    style="width: 64px; height: 64px;">
+    <path d="M57 25C57 20.5782 53.4218 17 49 17" stroke="gray" stroke-width="2"></path>
+    <path d="M41 25C41 20.5782 44.5782 17 49 17" stroke="gray" stroke-width="2"></path>
+    <path d="M41 25C41 29.4218 44.5782 33 49 33" stroke="gray" stroke-width="2"></path>
+    <path d="M57 41C57 36.5782 53.4218 33 49 33" stroke="gray" stroke-width="2"></path>
+    <path d="M57 41C57 45.4218 53.4218 49 49 49" stroke="gray" stroke-width="2"></path>
+    <path d="M41 41C41 45.4218 44.5782 49 49 49" stroke="gray" stroke-width="2"></path>
+    <path d="M33 25C33 20.5782 29.4218 17 25 17" stroke="gray" stroke-width="2"></path>
+    <path d="M17 25C17 20.5782 20.5782 17 25 17" stroke="gray" stroke-width="2"></path>
+    <path d="M33 41C33 45.4218 29.4218 49 25 49" stroke="gray" stroke-width="2"></path>
+    <path d="M17 41C17 45.4218 20.5782 49 25 49" stroke="gray" stroke-width="2"></path>
+    <path d="M17 25V41" stroke="gray" stroke-width="2"></path>
+    <path d="M33 25V41" stroke="gray" stroke-width="2"></path>
+    <path d="M9.2 29V49" stroke="gray" stroke-width="2"></path>
+    <path d="M9.2 17V21" stroke="gray" stroke-width="2"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M49.0022 65H16.9978C8.16222 65 1 57.8373 1 49.0022V16.9978C1 8.16267 8.16222 1 16.9978 1H49.0022C57.8378 1 65 8.16267 65 16.9978V49.0022C65 57.8373 57.8378 65 49.0022 65Z"
+        stroke="black" stroke-width="2"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M49.0022 65H16.9978C8.16222 65 1 57.8373 1 49.0022V16.9978C1 8.16267 8.16222 1 16.9978 1H49.0022C57.8378 1 65 8.16267 65 16.9978V49.0022C65 57.8373 57.8378 65 49.0022 65Z"
+        stroke="url(#AppleLogoColor1_0_linear)" stroke-width="2"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M49.0022 65H16.9978C8.16222 65 1 57.8373 1 49.0022V16.9978C1 8.16267 8.16222 1 16.9978 1H49.0022C57.8378 1 65 8.16267 65 16.9978V49.0022C65 57.8373 57.8378 65 49.0022 65Z"
+        stroke="url(#AppleLogoColor1_1_linear)" stroke-width="2"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M49.0022 65H16.9978C8.16222 65 1 57.8373 1 49.0022V16.9978C1 8.16267 8.16222 1 16.9978 1H49.0022C57.8378 1 65 8.16267 65 16.9978V49.0022C65 57.8373 57.8378 65 49.0022 65Z"
+        stroke="url(#AppleLogoColor1_2_linear)" stroke-width="2"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M49.0022 65H16.9978C8.16222 65 1 57.8373 1 49.0022V16.9978C1 8.16267 8.16222 1 16.9978 1H49.0022C57.8378 1 65 8.16267 65 16.9978V49.0022C65 57.8373 57.8378 65 49.0022 65Z"
+        stroke="url(#AppleLogoColor1_3_linear)" stroke-width="2"></path>
+    <defs>
+        <linearGradient id="AppleLogoColor1_0_linear" x1="6" y1="6" x2="33" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#4FE5FF"></stop>
+            <stop offset="1" stop-color="#4FE5FF" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="AppleLogoColor1_1_linear" x1="60.5" y1="5.5" x2="33" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#69E56E"></stop>
+            <stop offset="1" stop-color="#69E56E" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="AppleLogoColor1_2_linear" x1="60.5" y1="60.5" x2="33" y2="33"
+            gradientUnits="userSpaceOnUse">
+            <stop stop-color="#CF8FFF"></stop>
+            <stop offset="1" stop-color="#CF8FFF" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="AppleLogoColor1_3_linear" x1="6" y1="60" x2="33" y2="33" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#0078D4"></stop>
+            <stop offset="1" stop-color="#0078D4" stop-opacity="0"></stop>
+        </linearGradient>
+    </defs>
+</svg>

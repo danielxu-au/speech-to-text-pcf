@@ -1,0 +1,33 @@
+<svg class="icon_fa78e63c" fill="none" viewBox="0 0 66 68" xmlns="http://www.w3.org/2000/svg"
+    style="width: 64px; height: 64px;">
+    <path d="M29.0001 6V62" stroke="gray" stroke-width="2"></path>
+    <path d="M1 34.0001H65" stroke="gray" stroke-width="2"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1 10L65 2V66L1 58V10Z" stroke="black" stroke-width="2"
+        stroke-linecap="square"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1 10L65 2V66L1 58V10Z" stroke="url(#WindowsLogoColor3_0_linear)"
+        stroke-width="2" stroke-linecap="square"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1 10L65 2V66L1 58V10Z" stroke="url(#WindowsLogoColor3_1_linear)"
+        stroke-width="2" stroke-linecap="square"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1 10L65 2V66L1 58V10Z" stroke="url(#WindowsLogoColor3_2_linear)"
+        stroke-width="2" stroke-linecap="square"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M1 10L65 2V66L1 58V10Z" stroke="url(#WindowsLogoColor3_3_linear)"
+        stroke-width="2" stroke-linecap="square"></path>
+    <defs>
+        <linearGradient id="WindowsLogoColor3_0_linear" x1="8" y1="9" x2="33" y2="34" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#4FE5FF"></stop>
+            <stop offset="1" stop-color="#4FE5FF" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="WindowsLogoColor3_1_linear" x1="65" y1="2" x2="33" y2="34" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#69E56E"></stop>
+            <stop offset="1" stop-color="#69E56E" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="WindowsLogoColor3_2_linear" x1="65" y1="66" x2="33" y2="34" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#CF8FFF"></stop>
+            <stop offset="1" stop-color="#CF8FFF" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="WindowsLogoColor3_3_linear" x1="8" y1="59" x2="33" y2="34" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#0078D4"></stop>
+            <stop offset="1" stop-color="#0078D4" stop-opacity="0"></stop>
+        </linearGradient>
+    </defs>
+</svg>
