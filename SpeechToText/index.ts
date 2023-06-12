@@ -174,7 +174,7 @@ export class SpeechToText implements ComponentFramework.StandardControl<IInputs,
         var speechConfig = SpeechSDK.SpeechTranslationConfig.fromSubscription(this._subscriptionKey, this._region);
         speechConfig.speechRecognitionLanguage = this._sourceLanguage;
 
-        const targetLanguages = ["zh-Hans","cy","de","en","fr","ga","es","it","nl","pt-pt","ru","sv"];
+        const targetLanguages = ["zh-Hans","ro","el","ur","es","pt","pa","hi","sd","pl","cy","de","en","fr","ga","es","it","nl","pt-pt","ru","sv"];
 
         targetLanguages.forEach((language)=>{
             speechConfig.addTargetLanguage(language);

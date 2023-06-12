@@ -8,7 +8,7 @@
   <Import Project="$(PowerAppsTargetsPath)\Microsoft.PowerApps.VisualStudio.Solution.props" Condition="Exists('$(PowerAppsTargetsPath)\Microsoft.PowerApps.VisualStudio.Solution.props')" />
 
   <PropertyGroup>
-    <ProjectGuid>2c350534-a897-459d-9d32-27532e89e172</ProjectGuid>
+    <ProjectGuid>5cc82b71-cf00-4c44-9d93-d6f8d94f8363</ProjectGuid>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <!--Remove TargetFramework when this is available in 16.1-->
     <TargetFramework>net462</TargetFramework>
@@ -16,9 +16,14 @@
     <SolutionRootPath>src</SolutionRootPath>
   </PropertyGroup>
 
-  <!-- Solution Packager overrides, un-comment to use: SolutionPackagerType (Managed, Unmanaged, Both)
+  <!-- 
+    Solution Packager overrides, un-comment to use: SolutionPackagerType (Managed, Unmanaged, Both)
+    Solution Localization Control, if you want to enabled localization of your solution, un-comment SolutionPackageEnableLocalization and set the value to true. - Requires use of -loc flag on Solution Clone or Sync
+  -->
+  <!--
   <PropertyGroup>
     <SolutionPackageType>Managed</SolutionPackageType>
+    <SolutionPackageEnableLocalization>false</SolutionPackageEnableLocalization>
   </PropertyGroup>
   -->
 
@@ -44,7 +49,7 @@
   </ItemGroup>
   
   <ItemGroup>
-    <ProjectReference Include="c:\Users\simoncook\LocalDevelopment\PowerApps\pcf\speech-to-text\speech-to-text.pcfproj" />
+    <ProjectReference Include="..\speech-to-text.pcfproj" />
   </ItemGroup>
 
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
